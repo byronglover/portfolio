@@ -1,2 +1,3 @@
 # portfolio
 This will be used to work on my personal portfolio.
+I need to get started...
